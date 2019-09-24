@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "Title Cool",
+      "des": "Shome thingg cooler thaner banner",
+      "id": 1
+    },
+    {
+      "title": "Component",
+      "des": "Shome thingg cooler thaner banner 2",
+      "id": 2
+    },
+    {
+      "title": "Layout",
+      "des": "fdghfdghert",
+      "id": 3
+    }
+  ]
+}
